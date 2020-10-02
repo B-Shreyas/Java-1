@@ -1,5 +1,7 @@
 package oops.inheritance;
 
+import javax.swing.JOptionPane;
+
 public class Vehicle {
 
 	private String name;
