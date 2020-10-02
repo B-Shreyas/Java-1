@@ -36,6 +36,11 @@ public class VehicleMain {
 
 		audi.stop();
 		
+		System.out.println("***********************The car has been covered the Mileage of****************************");
+		
+		audi.mileage();
+		
+		
 		
 
 	}
